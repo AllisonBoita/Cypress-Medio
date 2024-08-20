@@ -23,3 +23,6 @@ Durante o curso de testes automatizados com Cypress (intermediário) da Escola T
 Espero que esteja tão ansiosa(o) para começar como estou para te guiar ao longo do caminho! 🧑‍🏫
 
 Vá para a [aula 0](./0.md) para fazer o _setup_ do ambiente local com Docker.
+
+
+https://github.com/wlsf82/cypress-intermediario-v2
